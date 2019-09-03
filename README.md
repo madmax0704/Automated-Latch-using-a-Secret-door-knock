@@ -7,7 +7,7 @@ Also This knock mechanism can be ON by an Android App.
 Latch can be close in Android App
 We have 3D printed Latch components which includes a Latch and a Linear Actuator.
 
-We have refer this instructible post and made some changes in it.
+We have refered this instructible post and made some changes in it.
 
 https://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/
 
