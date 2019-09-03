@@ -4,7 +4,7 @@ We won 1st Prize.
 
 We have created a Automated Latch which can be opened using a secret door knock.
 Also This knock mechanism can be ON by an Android App.
-Latch can be close in Android App
+Latch can be close in Android App.
 We have 3D printed Latch components which includes a Latch and a Linear Actuator.
 
 We have refered this instructible post and made some changes in it.
